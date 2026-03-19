@@ -9,5 +9,5 @@
     "skipLibCheck": true // adicionado depois, verificar
   },
   "include": ["src/**/*.ts"],
-  "exclude": ["node_modules", "dist"] // adicionado depois, verificar
+  "exclude": ["node_modules", "dist"] // adicionado depois, verificar testes
 }
